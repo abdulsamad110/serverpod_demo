@@ -1,0 +1,14 @@
+company:
+  - insertCompany:
+  - getAllCompanies:
+  - deleteCompany:
+example:
+  - hello:
+  - addNumbers:
+  - getJson:
+  - insertCompany:
+todo:
+  - create:
+  - read:
+  - update:
+user:
